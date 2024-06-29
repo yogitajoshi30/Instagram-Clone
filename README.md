@@ -1,3 +1,3 @@
-# React-Instagram-Clone-2.0
+# React-Instagram-Clone
 A reactive Single-Page Instagram-Clone with some new features!! 
 
